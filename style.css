@@ -44,22 +44,23 @@ button:hover {
     background-color: #ddd;
 }
 
-.clear{
+.clear {
     background-color: #ff4136;
     color: #fff;
 }
 
-.number, .decimal{
+.number,
+.decimal {
     background-color: #fff;
     color: #333;
 }
 
-.operator{
+.operator {
     background-color: #0074d9;
     color: #fff;
 }
 
-.equals{
+.equals {
     background-color: #01ff70;
     grid-row: span 3;
     color: #fff;
